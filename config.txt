@@ -1,0 +1,15 @@
+players_online: off
+database_logging: off
+voting_connections: on
+store_connections: on
+yell_status: on
+item_spawn_tactical: off
+player_logging: off
+double_voting: off
+triple_voting: off
+
+protected_mac_address1:
+protected_ip_address1:
+protected_computer_address1:
+
+server_ip: 184.100.49.138

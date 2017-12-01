@@ -1,0 +1,4 @@
+[11/29/17 03:09PM] [LOGIN], Ip: 127.0.0.1, Serial Address: invalid_serial, 
+[11/29/17 03:10PM] [LOGOUT], Ip: 127.0.0.1, Serial Address: invalid_serial, 
+[11/29/17 03:10PM] [LOGIN], Ip: 127.0.0.1, Serial Address: invalid_serial, 
+[11/29/17 03:33PM] [LOGOUT], Ip: 127.0.0.1, Serial Address: invalid_serial, 

@@ -1,0 +1,12 @@
+java.lang.NullPointerException
+	at Auora.model.player.Player.tick(Player.java:651)
+	at Auora.service.logic.task.PreTickTask.run(PreTickTask.java:34)
+	at Auora.service.logic.TaskExecutor.executeTasks(TaskExecutor.java:25)
+	at Auora.service.logic.LogicService.run(LogicService.java:136)
+	at java.lang.Thread.run(Unknown Source)
+java.lang.NullPointerException
+	at Auora.service.logic.task.UpdateTask.checkAttackOption(UpdateTask.java:49)
+	at Auora.service.logic.task.UpdateTask.run(UpdateTask.java:34)
+	at Auora.service.logic.TaskExecutor.executeTasks(TaskExecutor.java:25)
+	at Auora.service.logic.LogicService.run(LogicService.java:137)
+	at java.lang.Thread.run(Unknown Source)

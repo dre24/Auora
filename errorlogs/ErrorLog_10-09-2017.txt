@@ -1,0 +1,7 @@
+java.io.FileNotFoundException: https://dl.dropboxusercontent.com/u/344464529/SpawnScape/updateNew.txt
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at spawnscape.GameServer.<init>(GameServer.java:118)
+	at spawnscape.GameServer.main(GameServer.java:178)

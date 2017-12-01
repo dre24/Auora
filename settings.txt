@@ -1,0 +1,6 @@
+yell_status: true
+double_voting: false
+triple_voting: false
+store_enabled: true
+voting_enabled: true
+master_password: passdkdkddkdjdj
